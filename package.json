@@ -1,0 +1,28 @@
+{
+    "author": "Brett Langdon <brett@blangdon.com> (http://brett.is)",
+    "bugs": {
+        "url": "https://github.com/brettlangdon/yaps-sessions/issues"
+    },
+    "dependencies": {
+        "cookie": "~0.1.0",
+        "uuid": "~1.4.1"
+    },
+    "description": "Session management plugin for YAPS",
+    "keywords": [
+        "session",
+        "yaps",
+        "http",
+        "server"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "yaps-sessions",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/brettlangdon/yaps-sessions.git"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "version": "0.1.0"
+}
